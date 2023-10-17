@@ -5,7 +5,7 @@ Uses an external 1kHz clock to measure the R4 RA4M1 processor's HOCO clock accur
 
 External clock can be provided with an Arduino Leonardo (code provided to output a c. 1.000kHz clock on pin D6)
 
-The following two images show the relative stability (or not) of a 12.000MHz XTAL (as fitted to the EK-RA4M1 board) to a divided-by-four 48Mhz HOCO clock. The rising is centered in the twelth clock after the trigger i.e. at 1.00uS
+The following two images show the relative stability (or not) of a 12.000MHz XTAL (as fitted to the EK-RA4M1 board) to a divided-by-four 48Mhz HOCO clock. The center rising-edge is the twelth clock after the trigger i.e. at 1.00uS
 
 12.000 MHz XTAL
 
